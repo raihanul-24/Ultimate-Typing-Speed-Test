@@ -12,3 +12,6 @@ A Java Swing application designed to test and improve typing speed and accuracy 
 
 ## Tech Stack
 - Java (Swing)
+
+## Credits
+This project was successfully delivered by a development team including [Raihanul Hasan](https://github.com/raihanul-24), who contributed to the overall system architecture and collaborated on core implementation.
